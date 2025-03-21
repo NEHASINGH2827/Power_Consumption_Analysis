@@ -1,6 +1,6 @@
 # Power_Consumption_Analysis
 
-# The Power consumption Analysisof Zone 1 based on various environmental and meteorological factors in Wellington, New-Zealand!
+# The Power consumption Analysis of Zone 1 based on various environmental and meteorological factors in Wellington, New-Zealand!
 
 # The goal of this project is to analyze various environmental and meteorological factors of Wellington, New Zealand and create an accurate predictive model that can assist in managing energy resources efficiently and optimizing power consumption in that zone (Zone 1). We explored the dataset, preprocessed it, created machine learning models and evaluated the metrics to find the best model for prediction.
 
